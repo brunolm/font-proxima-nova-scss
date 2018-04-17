@@ -1,9 +1,5 @@
 $pn-font-path: "./fonts" !default;
 
-div {
-  font-family: Helvetica, ProximaNova, Helvetica !important;
-}
-
 @font-face {
   font-family: "Proxima Nova Cn Lt";
   src: url("#{$pn-font-path}/ProximaNovaCond-LightIt.eot");
