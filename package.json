@@ -1,0 +1,11 @@
+{
+  "name": "font-proxima-nova-scss",
+  "version": "1.0.0",
+  "description": "Proxima Nova font",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Bruno Leonardo Michels",
+  "license": "ISC"
+}
