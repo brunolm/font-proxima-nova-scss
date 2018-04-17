@@ -7,5 +7,13 @@
   },
   "keywords": [],
   "author": "Bruno Leonardo Michels",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunolm/font-proxima-nova-scss.git"
+  },
+  "bugs": {
+    "url": "https://github.com/brunolm/font-proxima-nova-scss/issues"
+  },
+  "homepage": "https://github.com/brunolm/font-proxima-nova-scss#readme"
 }
